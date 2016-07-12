@@ -1,8 +1,8 @@
 //Quote of the Day Code:
 
-// var day = (new Date().getDay());
+var day = (new Date().getDay());
 
-var day = 4
+// var day = 4
 var msg = "";
 var author = "";
 
